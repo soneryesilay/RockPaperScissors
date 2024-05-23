@@ -12,7 +12,7 @@
 Bu proje, JavaScript eğitimi sürecinde öğrenilen konseptlerin uygulamalı olarak pekiştirilmesini sağlamak amacıyla oluşturulmuştur.
 
 ## Proje Görseli
-![image](https://github.com/soneryesilay/RockPaperScissors/assets/122547220/2bf34030-233b-4f8e-b9e3-f82b40b843f8)
+![image](https://github.com/soneryesilay/RockPaperScissors/assets/122547220/977328d5-3fea-48c3-86f2-59d16a668b29)
 
 
 ## Utilizing the Repository
