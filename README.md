@@ -2,9 +2,9 @@
 
 ## Proje İçeriği
 
-- Html
-- Css
-- JavaScript
+- HTML
+- CSS
+- JS
 
 
 ## Proje Hakkında
